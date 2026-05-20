@@ -1,0 +1,11 @@
+# Output — do not commit
+oci_policies.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OCI credentials
+.oci/
